@@ -140,7 +140,7 @@ namespace Day3_InheritanceExample3
         {
             public void Display()
             {
-                Console.WriteLine("Displayyyy");    
+                Console.WriteLine("Displayyyy one");    
             }
 
 
@@ -149,7 +149,7 @@ namespace Day3_InheritanceExample3
         {
             public void Show()
             {
-                Console.WriteLine("Showwww");
+                Console.WriteLine("Showwww one");
             }
         }
         public abstract class AbstractClass1
